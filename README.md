@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Shreyas Koli
 
-## 🛡️ Security Researcher & Pentester
+## 🛡️ Web3 Security Researcher & Pentester
 
 [![Email](https://img.shields.io/badge/Email-shreyaskoli008%40gmail.com-blue?style=flat&logo=gmail)](mailto:shreyaskoli008@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-spyboy7711-black?style=flat&logo=github)](https://github.com/spyboy7711)
